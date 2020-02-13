@@ -1,0 +1,15 @@
+.CollapsedAdminPanel{
+
+	#simplepanel{
+		&, > div{
+			&, &:after{
+				width: 32px;
+			}
+		}
+	}
+
+	#admincontainer{
+		margin-left: 32px;
+	}
+
+}
